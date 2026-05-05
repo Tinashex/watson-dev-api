@@ -1,0 +1,16 @@
+{
+  "name": "multi-api",
+  "version": "1.0.0",
+  "description": "A multi-purpose API with 50+ endpoints for bot messages, greetings, jokes, and more.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "watson-dev1",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
